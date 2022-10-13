@@ -19,7 +19,7 @@ namespace BasicCodes
                 int numberInInt;
                 if (numberInString == null)
                 {
-                    Console.WriteLine("Enter a Number:");
+                    Console.WriteLine("Number not Entered");
                 }
 
                 else if (numberInString.Contains('7'))
